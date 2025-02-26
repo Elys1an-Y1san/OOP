@@ -3,4 +3,3 @@ public class Addition {
         int a = 1;
         double b = 1.0;
         System.out.println(a + b);
-    }
