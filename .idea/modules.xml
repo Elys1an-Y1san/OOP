@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Lab01/Lab01.iml" filepath="$PROJECT_DIR$/Lab01/Lab01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entity/Entity.iml" filepath="$PROJECT_DIR$/Entity/Entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab001/Lab001.iml" filepath="$PROJECT_DIR$/Labs/Lab001/Lab001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab001/src/Lab01.iml" filepath="$PROJECT_DIR$/Labs/Lab001/src/Lab01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab02/Lab02.iml" filepath="$PROJECT_DIR$/Labs/Lab02/Lab02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab03/Lab03.iml" filepath="$PROJECT_DIR$/Labs/Lab03/Lab03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab04/Lab04.iml" filepath="$PROJECT_DIR$/Labs/Lab04/Lab04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Labs.iml" filepath="$PROJECT_DIR$/Labs/Labs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Packaging/Packaging.iml" filepath="$PROJECT_DIR$/Packaging/Packaging.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
     </modules>
   </component>
 </project>
