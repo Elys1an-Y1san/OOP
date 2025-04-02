@@ -12,10 +12,12 @@
       <module fileurl="file://$PROJECT_DIR$/Labs/Lab04/Lab04.iml" filepath="$PROJECT_DIR$/Labs/Lab04/Lab04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Lab05/Lab05.iml" filepath="$PROJECT_DIR$/Labs/Lab05/Lab05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Labs.iml" filepath="$PROJECT_DIR$/Labs/Labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Packaging/Packaging.iml" filepath="$PROJECT_DIR$/Packaging/Packaging.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/Functional Interface/Supplier/Supplier.iml" filepath="$PROJECT_DIR$/Functional Interface/Supplier/Supplier.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
