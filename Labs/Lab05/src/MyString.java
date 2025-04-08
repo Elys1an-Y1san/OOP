@@ -42,4 +42,16 @@ public class MyString {
             newChars[chars.length + i] = s.charAt(i);
         return new MyString(newChars);
     }
+
+    public boolean equals(String s) {
+        return equals(new MyString(s.toCharArray()));
+    }
+
+    public MyString substring(int start) {
+        return substring(start, length());
+    }
+
+    public MyString concatenate(char c) {
+        return concatenate(new MyString(new char[] { c }));
+    }
 }

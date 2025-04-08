@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Functional Interface/Consumer/Consumer.iml" filepath="$PROJECT_DIR$/Functional Interface/Consumer/Consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Entity/Entity.iml" filepath="$PROJECT_DIR$/Entity/Entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Filereading/Filereading.iml" filepath="$PROJECT_DIR$/Filereading/Filereading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Functional Interface/Functional Interface.iml" filepath="$PROJECT_DIR$/Functional Interface/Functional Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Lab001/Lab001.iml" filepath="$PROJECT_DIR$/Labs/Lab001/Lab001.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Lab001/src/Lab01.iml" filepath="$PROJECT_DIR$/Labs/Lab001/src/Lab01.iml" />
