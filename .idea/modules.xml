@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Functional Interface/Consumer/Consumer.iml" filepath="$PROJECT_DIR$/Functional Interface/Consumer/Consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Entity/Entity.iml" filepath="$PROJECT_DIR$/Entity/Entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Expections/Expections.iml" filepath="$PROJECT_DIR$/Expections/Expections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Filereading/Filereading.iml" filepath="$PROJECT_DIR$/Filereading/Filereading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Functional Interface/Functional Interface.iml" filepath="$PROJECT_DIR$/Functional Interface/Functional Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Lab001/Lab001.iml" filepath="$PROJECT_DIR$/Labs/Lab001/Lab001.iml" />
@@ -12,14 +13,20 @@
       <module fileurl="file://$PROJECT_DIR$/Labs/Lab03/Lab03.iml" filepath="$PROJECT_DIR$/Labs/Lab03/Lab03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Lab04/Lab04.iml" filepath="$PROJECT_DIR$/Labs/Lab04/Lab04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Lab05/Lab05.iml" filepath="$PROJECT_DIR$/Labs/Lab05/Lab05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Lab07/Lab07.iml" filepath="$PROJECT_DIR$/Labs/Lab07/Lab07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Labs.iml" filepath="$PROJECT_DIR$/Labs/Labs.iml" />
       <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Package/Package.iml" filepath="$PROJECT_DIR$/Package/Package.iml" />
       <module fileurl="file://$PROJECT_DIR$/Packaging/Packaging.iml" filepath="$PROJECT_DIR$/Packaging/Packaging.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/Functional Interface/Supplier/Supplier.iml" filepath="$PROJECT_DIR$/Functional Interface/Supplier/Supplier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Test1.iml" filepath="$PROJECT_DIR$/Test1/Test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
