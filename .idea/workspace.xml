@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36fe0f71-795b-4731-b0d1-0829b90ce693" name="Changes" comment="gogogo出发喽" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Elys1an-Y1san&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Elys1an-Y1san/OOP.git&quot;,
+    &quot;accountId&quot;: &quot;820a011e-6b45-491c-9008-1b48206ac63b&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tZDyyxLTtruOasXgTWLnYqrzo3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Addition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraryDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Contain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cigarparty.executor&quot;: &quot;Run&quot;,
+    &quot;Application.isValidTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/elysiany1san/Documents/Code/Java/OOP/Practice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Practice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Practice/src" />
+      <recent name="$PROJECT_DIR$/Labs/Lab001/src" />
+      <recent name="$PROJECT_DIR$/array/src" />
+      <recent name="$PROJECT_DIR$/Labs/src" />
+      <recent name="$PROJECT_DIR$/Method/src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36fe0f71-795b-4731-b0d1-0829b90ce693" name="Changes" comment="" />
+      <created>1740550962253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740550962253</updated>
+      <workItem from="1740550963344" duration="892000" />
+      <workItem from="1740551865597" duration="1291000" />
+      <workItem from="1740556608297" duration="6103000" />
+      <workItem from="1741140329468" duration="3698000" />
+      <workItem from="1741320076224" duration="8000" />
+      <workItem from="1741674284570" duration="38000" />
+      <workItem from="1741742365612" duration="7724000" />
+      <workItem from="1741770897993" duration="206000" />
+      <workItem from="1741844976232" duration="8520000" />
+      <workItem from="1742174857359" duration="5702000" />
+      <workItem from="1742439391107" duration="4487000" />
+      <workItem from="1742458891821" duration="23144000" />
+      <workItem from="1742796172933" duration="1238000" />
+      <workItem from="1742903242565" duration="17345000" />
+      <workItem from="1743299060425" duration="3000" />
+      <workItem from="1743386620660" duration="33602000" />
+      <workItem from="1743657438383" duration="2000" />
+      <workItem from="1743820125440" duration="23378000" />
+      <workItem from="1744274065672" duration="687000" />
+      <workItem from="1744449460678" duration="629000" />
+      <workItem from="1744450095383" duration="18076000" />
+      <workItem from="1744798659448" duration="22912000" />
+      <workItem from="1745228193893" duration="3537000" />
+      <workItem from="1745462767544" duration="5092000" />
+      <workItem from="1745579546039" duration="2264000" />
+      <workItem from="1745656308220" duration="1665000" />
+      <workItem from="1745745784993" duration="6638000" />
+    </task>
+    <task id="LOCAL-00001" summary="TEST">
+      <option name="closed" value="true" />
+      <created>1740552075129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740552075129</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test2">
+      <option name="closed" value="true" />
+      <created>1740552721035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740552721035</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lab 1&#10;Ex 4">
+      <option name="closed" value="true" />
+      <created>1740632053125</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740632053125</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lab 1&#10;ex 5">
+      <option name="closed" value="true" />
+      <created>1740633748092</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740633748092</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lab 1&#10;ex 5">
+      <option name="closed" value="true" />
+      <created>1740633770843</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740633770843</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ex">
+      <option name="closed" value="true" />
+      <created>1741750108375</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741750108375</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Array Practice&#10;3.12">
+      <option name="closed" value="true" />
+      <created>1741750171840</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741750171840</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Array Practice&#10;3.12">
+      <option name="closed" value="true" />
+      <created>1741750215916</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741750215916</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Array Practice&#10;Test SSH Key&#10;3.12">
+      <option name="closed" value="true" />
+      <created>1741750588364</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741750588364</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Array Practice&#10;Test SSH Key&#10;3.12">
+      <option name="closed" value="true" />
+      <created>1741750624769</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741750624769</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Test">
+      <option name="closed" value="true" />
+      <created>1741751209034</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741751209034</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Class">
+      <option name="closed" value="true" />
+      <created>1742266854259</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1742266854259</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Practice files">
+      <option name="closed" value="true" />
+      <created>1742642152972</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1742642152972</updated>
+    </task>
+    <task id="LOCAL-00014" summary="delete unnecessary files">
+      <option name="closed" value="true" />
+      <created>1743064062235</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1743064062235</updated>
+    </task>
+    <task id="LOCAL-00015" summary="学习爽">
+      <option name="closed" value="true" />
+      <created>1743489105814</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1743489105814</updated>
+    </task>
+    <task id="LOCAL-00016" summary="学习爽">
+      <option name="closed" value="true" />
+      <created>1743585504269</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1743585504269</updated>
+    </task>
+    <task id="LOCAL-00017" summary="继续">
+      <option name="closed" value="true" />
+      <created>1744082266001</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1744082266001</updated>
+    </task>
+    <task id="LOCAL-00018" summary="gogogo出发喽">
+      <option name="closed" value="true" />
+      <created>1744798847015</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1744798847015</updated>
+    </task>
+    <task id="LOCAL-00019" summary="gogogo出发喽">
+      <option name="closed" value="true" />
+      <created>1744798860548</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1744798860548</updated>
+    </task>
+    <task id="LOCAL-00020" summary="gogogo出发喽">
+      <option name="closed" value="true" />
+      <created>1745750146583</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1745750146583</updated>
+    </task>
+    <task id="LOCAL-00021" summary="gogogo出发喽">
+      <option name="closed" value="true" />
+      <created>1745760910986</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1745760910986</updated>
+    </task>
+    <task id="LOCAL-00022" summary="gogogo出发喽">
+      <option name="closed" value="true" />
+      <created>1745761003916</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1745761003916</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TEST" />
+    <MESSAGE value="Test2" />
+    <MESSAGE value="Lab 1&#10;Ex 4" />
+    <MESSAGE value="Lab 1&#10;ex 5" />
+    <MESSAGE value="Ex" />
+    <MESSAGE value="Array Practice&#10;3.12" />
+    <MESSAGE value="Array Practice&#10;Test SSH Key&#10;3.12" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="Class" />
+    <MESSAGE value="Practice files" />
+    <MESSAGE value="delete unnecessary files" />
+    <MESSAGE value="学习爽" />
+    <MESSAGE value="继续" />
+    <MESSAGE value="gogogo出发喽" />
+    <option name="LAST_COMMIT_MESSAGE" value="gogogo出发喽" />
+  </component>
+</project>
